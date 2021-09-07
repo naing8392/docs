@@ -1,4 +1,4 @@
----
+--sshadding-a-new-ssh-key-to-your-github-account.md
 title: Adding a new SSH key to your GitHub account
 intro: 'To configure your {% data variables.product.product_name %} account to use your new (or existing) SSH key, you''ll also need to add it to your {% data variables.product.product_name %} account.'
 redirect_from:
